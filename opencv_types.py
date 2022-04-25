@@ -1,5 +1,4 @@
 import dumper
-import numpy
 
 
 def qform__cv__Mat():
